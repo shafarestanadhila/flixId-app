@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290075341092",
+    "project_id": "flix-id-course-78ccf",
+    "storage_bucket": "flix-id-course-78ccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290075341092:android:310edb47a164fc327fc3b1",
+        "android_client_info": {
+          "package_name": "com.shafarestanadhila.flix_id_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Pg6TCE6JCVO0n2ByKNQNuIZngnJCE5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
